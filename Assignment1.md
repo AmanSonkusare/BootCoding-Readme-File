@@ -6,6 +6,8 @@ In this assignment, you will create a program that computes the distance an obje
 
 1. Create a new class called GravityCalculator. 
 2. Copy and paste the following initial version: 
+
+```
 class GravityCalculator {
 
 public static void main(String[] arguments) 
@@ -25,7 +27,7 @@ double finalPosition = 0.0;
 " seconds is " + finalPosition + " m.");
 }
 }
-
+```
 3. Run it in Eclipse (Run → Run As → Java Application). 
 What is the output of the unmodified program? Include this as a comment in the source code of your submission. 
 
